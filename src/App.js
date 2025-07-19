@@ -8,7 +8,6 @@ import {
 	Group,
 	Card,
 	ActionIcon,
-	Code,
 } from '@mantine/core';
 import { useState, useRef, useEffect } from 'react';
 import { MoonStars, Sun, Trash } from 'tabler-icons-react';
